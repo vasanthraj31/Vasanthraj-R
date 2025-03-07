@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Vsanthraj
+# 👋 Hi, I'm Vasanthraj
 
 BTech AI&DS Student
 
@@ -13,7 +13,7 @@ BTech AI&DS Student
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjithkumar-a-456616280/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanthrajrajavel31)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ARanjit06037457?t=YWSunqBRTyNqB4VruBaOaQ&s=09)
 
 ## I code in
